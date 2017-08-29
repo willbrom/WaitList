@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaitList</string>
+    <string name="btn_add_new">Add</string>
+    <string name="guest_name_hint">Guest name</string>
+    <string name="party_size_hint">Size</string>
+    <string name="toast_error_party_size">Please enter a valid party size</string>
+    <string name="toast_guest_removed">Guest removed</string>
+    <string name="toast_guest_added">Guest added</string>
+</resources>
